@@ -1,5 +1,5 @@
-77cc7fbbfc89c4919c9c59aa3b9b1f7d *DESCRIPTION
-bbb2100170fe3ed76c9ddb5dbb760525 *NAMESPACE
+6f27995d891c4591c8be088be956268d *DESCRIPTION
+37be7f504de0da44311f6866f9d1e700 *NAMESPACE
 d1d1ad52b5c127134e0978208a79d71a *R/RcppExports.R
 7a1f186f36aaaa9132492fe3c3727dde *R/fit.R
 a2d3d89ccb3b8c710d38c02d7f8a7056 *R/helper.R
@@ -23,4 +23,5 @@ ae0669f18507aa287c3ca48fe1714ac1 *man/partialAR-package.Rd
 d2639f8b4e686bb64310ecc08f6221e9 *man/which.hypothesis.partest.Rd
 a27f8357e39cff97b2fddbd443a92a74 *src/RcppExports.cpp
 7d1fe7a0166e3f9df13027485ce75699 *src/cfit.cc
+ce12578a1f8cf3280354b1d696b8437e *src/registerDynamicSymbol.c
 5f26d112bd1fc06ef749cf0461b60390 *tests/tests.R
